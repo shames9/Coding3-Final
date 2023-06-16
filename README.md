@@ -143,6 +143,8 @@ In future projects, I can further optimise the model and interface to achieve a 
 
 ## Reference
 https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
+
 https://morioh.com/p/801c509dda99
+
 https://github.com/Dhanush45/Realtime-emotion-detectionusing-python
 
