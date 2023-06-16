@@ -1,0 +1,11 @@
+#Realtime-emotion-detectionusing-videotest
+I hope that by analysing facial expressions, we can better understand and respond to people's emotional states. The code provides a simple and practical base framework to help developers quickly build and deploy applications for facial emotion analysis. By combining computer vision and deep learning techniques, we can create a more intelligent and human interaction experience.
+
+This code is a deep learning based facial emotion analysis application. It uses computer vision and machine learning techniques to detect faces captured by the camera and to predict the emotion category of facial expressions. The code performs face detection using OpenCV by loading pre-trained models and weights, and pre-processes and classifies the detected face regions for emotion.
+
+##Reference
+CSDN
+
+(https://morioh.com/p/801c509dda99)
+
+(https://github.com/Dhanush45/Realtime-emotion-detectionusing-python)
