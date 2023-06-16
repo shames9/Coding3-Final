@@ -142,9 +142,11 @@ In this project, I have implemented a simple and practical facial emotion analys
 In future projects, I can further optimise the model and interface to achieve a more accurate and personalised facial emotion analysis application based on my needs and dataset. Improve the training of a database myself (the emotion dataset on kaggle is too small) to make the detected results more accurate.
 
 ## Reference
-https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
+- [Data sets](https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer)
 
-https://morioh.com/p/801c509dda99
+- https://morioh.com/p/801c509dda99
 
-https://github.com/Dhanush45/Realtime-emotion-detectionusing-python
+- https://github.com/Dhanush45/Realtime-emotion-detectionusing-python
+
+- [How to use camera in Colab](https://blog.csdn.net/weixin_42143481/article/details/105771183?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168681998016800225516119%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=168681998016800225516119&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-105771183-null-null.142^v88^insert_down38v5,239^v2^insert_chatgpt&utm_term=colab%E6%91%84%E5%83%8F%E5%A4%B4&spm=1018.2226.3001.4187)
 
