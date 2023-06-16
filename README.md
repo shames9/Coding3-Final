@@ -141,5 +141,8 @@ In this project, I have implemented a simple and practical facial emotion analys
 
 In future projects, I can further optimise the model and interface to achieve a more accurate and personalised facial emotion analysis application based on my needs and dataset. Improve the training of a database myself (the emotion dataset on kaggle is too small) to make the detected results more accurate.
 
-
+## Reference
+https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
+https://morioh.com/p/801c509dda99
+https://github.com/Dhanush45/Realtime-emotion-detectionusing-python
 
